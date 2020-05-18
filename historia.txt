@@ -1,2 +1,3 @@
 hola soy joaquin y este es mi primer archivo para utilizar git.
-tengo una novia que se llama luciana.
+tengo una novia que se llama luciana
+la verdad estoy medio alejado de algunos amigos..
