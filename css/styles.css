@@ -21,6 +21,12 @@ body{
     flex-direction: column;
     align-content: center;
 }
+.container__div--head{
+    width: 100%;
+    height: 50%;
+    background-color: lightcoral;
+    padding: 0px;
+}
 h1{
     font-size: 30px;
     color: blueviolet;
